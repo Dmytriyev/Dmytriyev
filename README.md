@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Mon CV
-
-[📄 Consulter ou télécharger mon CV (PDF)](./cv.pdf)
 
 [![Aperçu de mon CV](./aperçu-cv.png)](./cv.pdf)
