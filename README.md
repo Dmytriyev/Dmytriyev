@@ -12,4 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Aperçu de mon CV](./aperçu-cv.png)](./cv.pdf)
+<a href="./CV — sombre.pdf">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./cv-github-dark.png">
+    <img src="./cv-github-light.png" alt="Sava Dmytriyev-Palets — Développeur web Full Stack" width="100%">
+  </picture>
+</a>
