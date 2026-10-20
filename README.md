@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bonjour !
 
 <!--
 **Dmytriyev/Dmytriyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 ## Mon CV
 
 [📄 Consulter ou télécharger mon CV (PDF)](./cv.pdf)
+
+## Mon CV
+
+[📄 Consulter ou télécharger mon CV (PDF)](./cv.pdf)
+
+[![Aperçu de mon CV](./aperçu-cv.png)](./cv.pdf)
