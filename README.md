@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Mon CV
+
+[📄 Consulter ou télécharger mon CV (PDF)](./cv.pdf)
